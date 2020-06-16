@@ -46,7 +46,7 @@ K-Means clustering
 ## How to use Tool 1.00
 * Open Stock Portfolio Optimizer Folder
 * Import S&P 500 data (any years you are interested in) as a .csv 
-* Run .py file in IDE/Notebook (Juypter)
+* Run .pynb file in Notebook (Juypter)
 
 
 
