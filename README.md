@@ -11,7 +11,7 @@ Typical inner workings of an LSTM neuron
 
 Equations to normalize and subsequently de-normalize at the end of the prediction process to get a real world number out of the prediction
 
-![ScreenShot](https://raw.githubusercontent.com/nv1/LSTMNeuralNetStockPortfolioOptimizer/master/equations.png)
+![ScreenShot](https://raw.githubusercontent.com/nv1/LSTMNeuralNetStockPortfolioOptimizer/master/Equations.png)
 ## Requirements
 
 Install requirements.txt file to make sure correct versions of libraries are being used.
