@@ -8,6 +8,10 @@ LSTM Neural Net model built using the Keras Python package to predict time serie
 Typical inner workings of an LSTM neuron
 
 ![ScreenShot](https://raw.githubusercontent.com/nv1/LSTMNeuralNetStockPortfolioOptimizer/master/lstm_cell.png)
+
+Equations to normalize and subsequently de-normalize at the end of the prediction process to get a real world number out of the prediction
+
+![ScreenShot](https://raw.githubusercontent.com/nv1/LSTMNeuralNetStockPortfolioOptimizer/master/equations.png)
 ## Requirements
 
 Install requirements.txt file to make sure correct versions of libraries are being used.
