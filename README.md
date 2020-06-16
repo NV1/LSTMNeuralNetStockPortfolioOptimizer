@@ -5,6 +5,8 @@ This project is a collection of ML algorithms and tools is useful to the average
 
 LSTM Neural Net model built using the Keras Python package to predict time series steps and sequences with S&P500 data from 2000 - 2018. Includes sine wave and stock market data.
 
+Typical inner workings of an LSTM neuron
+
 ![ScreenShot](https://raw.githubusercontent.com/nv1/LSTMNeuralNetStockPortfolioOptimizer/master/lstm_cell.png)
 ## Requirements
 
@@ -28,8 +30,7 @@ Output for stock market multi-dimensional multi-sequential predictions:
 
 Can investors create an optimal stock portfolio that minimizes risk while maximizing returns and beating the performance of the general market?
 
-Project Goal: 
-	Portfolio method that will be useful to the average investor who does not have enough time nor the skills necessary to fully study the market and how it works.
+
 
 Kaggle dataset: S&P 500 stocks data from April 1, 2013 - December 30, 2016 
 source: https://www.kaggle.com/camnugent/sandp500?fbclid=IwAR1rnqMi6OT_1gMYsioEQajoy8Cm1zm7_gfXCqCo85Ln6BsxEVBxJYW682c
