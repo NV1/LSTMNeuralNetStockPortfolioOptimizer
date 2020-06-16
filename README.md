@@ -1,6 +1,6 @@
 # LSTM Neural Network for Time Series Prediction
 
-LSTM built using the Keras Python package to predict time series steps and sequences. Includes sine wave and stock market data.
+LSTM Neural Net model built using the Keras Python package to predict time series steps and sequences with S&P500 data from 2000 - 2018. Includes sine wave and stock market data.
 
 ## Requirements
 
