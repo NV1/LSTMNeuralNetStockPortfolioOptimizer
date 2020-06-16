@@ -5,7 +5,7 @@ This project is a collection of ML algorithms and tools is useful to the average
 
 LSTM Neural Net model built using the Keras Python package to predict time series steps and sequences with S&P500 data from 2000 - 2018. Includes sine wave and stock market data.
 
-
+![ScreenShot](https://raw.githubusercontent.com/nv1/LSTMNeuralNetStockPortfolioOptimizer/master/lstm_cell.png)
 ## Requirements
 
 Install requirements.txt file to make sure correct versions of libraries are being used.
