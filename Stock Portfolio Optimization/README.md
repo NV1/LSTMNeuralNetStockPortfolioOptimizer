@@ -1,4 +1,4 @@
-Stock Portfolio Optimizer
+Stock Portfolio Optimizer Tool 1.00
 
 Can investors create an optimal stock portfolio that minimizes risk while maximizing returns and beating the performance of the general market?
 
@@ -12,10 +12,7 @@ Algorithms:
 Kernel Density Estimation
 K-Means clustering
 
-Future Implementations:
-ANN
-Tensorflow
-Multilayer Perceptron
+
 
 
 
